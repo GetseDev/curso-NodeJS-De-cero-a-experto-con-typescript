@@ -1,0 +1,11 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "Aplicación real de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue Getsemani Sandoval Villarreal",
+  "license": "ISC"
+}
